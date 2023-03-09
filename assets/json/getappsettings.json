@@ -1,0 +1,174 @@
+{
+    "counter": [
+      {
+        "counterid": 1,
+        "countername": "FIRST COUNTER"
+      },
+      {
+        "counterid": 2,
+        "countername": "SECOND COUNTER"
+      },
+      {
+        "counterid": 3,
+        "countername": "STORE COUNTER"
+      }
+    ],
+    "section": [
+      {
+        "sectionid": 1,
+        "sectionname": "DINE IN"
+      },
+      {
+        "sectionid": 2,
+        "sectionname": "HOME DELIVERY"
+      },
+      {
+        "sectionid": 3,
+        "sectionname": "SECTION SWIGGY"
+      },
+      {
+        "sectionid": 4,
+        "sectionname": "SECTION ZOMATO"
+      },
+      {
+        "sectionid": 8,
+        "sectionname": "AC"
+      },
+      {
+        "sectionid": 9,
+        "sectionname": "new section"
+      },
+      {
+        "sectionid": 10,
+        "sectionname": "section2"
+      },
+      {
+        "sectionid": 11,
+        "sectionname": "dddd"
+      },
+      {
+        "sectionid": 12,
+        "sectionname": "ffffff"
+      },
+      {
+        "sectionid": 28,
+        "sectionname": "hhh"
+      },
+      {
+        "sectionid": 29,
+        "sectionname": "se1"
+      },
+      {
+        "sectionid": 30,
+        "sectionname": "S2"
+      },
+      {
+        "sectionid": 31,
+        "sectionname": "S3"
+      },
+      {
+        "sectionid": 27,
+        "sectionname": "ddd"
+      },
+      {
+        "sectionid": 26,
+        "sectionname": "sss"
+      },
+      {
+        "sectionid": 32,
+        "sectionname": "S4"
+      },
+      {
+        "sectionid": 33,
+        "sectionname": "SE"
+      },
+      {
+        "sectionid": 34,
+        "sectionname": "S123"
+      },
+      {
+        "sectionid": 35,
+        "sectionname": "SECTION123"
+      },
+      {
+        "sectionid": 36,
+        "sectionname": "CCCC"
+      },
+      {
+        "sectionid": 37,
+        "sectionname": "LLL"
+      },
+      {
+        "sectionid": 41,
+        "sectionname": "section09988790"
+      },
+      {
+        "sectionid": 38,
+        "sectionname": "section456"
+      },
+      {
+        "sectionid": 40,
+        "sectionname": "section abc"
+      }
+    ],
+    "bank": [
+      {
+        "ledgerid": 67,
+        "bankid": 1,
+        "bankname": "AXIS BANK"
+      },
+      {
+        "ledgerid": 1946,
+        "bankid": 2,
+        "bankname": "CANARA BANK"
+      },
+      {
+        "ledgerid": 1947,
+        "bankid": 3,
+        "bankname": "SBI"
+      },
+      {
+        "ledgerid": 1988,
+        "bankid": 4,
+        "bankname": "UNION"
+      },
+      {
+        "ledgerid": 2037,
+        "bankid": 5,
+        "bankname": "ssss"
+      },
+      {
+        "ledgerid": 2038,
+        "bankid": 6,
+        "bankname": "BANK1"
+      },
+      {
+        "ledgerid": 2041,
+        "bankid": 7,
+        "bankname": "sss"
+      },
+      {
+        "ledgerid": 2045,
+        "bankid": 11,
+        "bankname": "bank12"
+      }
+    ],
+    "interval": [
+      {
+        "intervalid": 1,
+        "refreshtime": "5 seconds"
+      },
+      {
+        "intervalid": 2,
+        "refreshtime": "10 seconds"
+      },
+      {
+        "intervalid": 3,
+        "refreshtime": "15 seconds"
+      },
+      {
+        "intervalid": 4,
+        "refreshtime": "20 seconds"
+      }
+    ]
+  }
